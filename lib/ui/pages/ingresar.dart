@@ -37,9 +37,9 @@ class _IngresarUsuarioState extends State<IngresarUsuario> {
                       },
                     )
                     //probar suffix
-                    ),
+                ),
               ),
-            ),
+          ),
           Padding(
               padding:const EdgeInsets.all(15.0),
               child: TextField(
